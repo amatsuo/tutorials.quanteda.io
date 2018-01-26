@@ -30,7 +30,7 @@ We will use the **readtext** package to read in different types of text data in 
 install.packages("readtext")
 ```
 
-We will also use extra dataset in tutorials that are available in **quanteda.corpora***
+We will also use extra dataset in tutorials that are available in **quanteda.corpora**
 
 
 ```r
