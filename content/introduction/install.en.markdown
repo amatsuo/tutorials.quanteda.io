@@ -16,14 +16,6 @@ First, you need to have **quanteda** installed.  You can do this from inside RSt
 install.packages("quanteda")
 ```
 
-Optionally, you can install some additional corpus data from **quanteda.corpora** using
-
-
-```r
-install.packages("devtools")
-devtools::install_github("quanteda/quanteda.corpora")
-```
-
 If you are feeling adventurous, you can install the latest build of **quanteda** from its [GitHub code page](https://github.com/quanteda/quanteda).
 
 Note that on **Windows platforms**, it is also recommended that you install the [RTools suite](https://cran.r-project.org/bin/windows/Rtools/), and for **OS X**, that you install [XCode](https://itunes.apple.com/gb/app/xcode/id497799835?mt=12) from the App Store.
